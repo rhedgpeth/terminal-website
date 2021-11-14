@@ -15,7 +15,7 @@ The following pieces bring this site together:
 
 * [index.html](index.html): The default/launch web page.
 
-* [cli.js](scripts/cli.js): JavaScript file that contains the mock Command Line Interface (CLI) management.
+* [cli.js](scripts/cli.js): JavaScript file that contains the mock Command Line Interface (CLI) management functionality.
 
 * [shell.js](scripts/shell.js): JavaScript file that contains the mock Terminal functionality.
 
