@@ -147,17 +147,17 @@ const commands = [
                 argument: "-b",
                 output: " \
                             <div class='output'> \
-                                <span class='green'>CURRENT LOCATION</span> \
+                                <span class='bg-green'>CURRENT LOCATION</span> \
                                 <p>Chicago, IL USA</p> \
-                                <span class='green'>CURRENT ROLE</span> \
+                                <span class='bg-green'>CURRENT ROLE</span> \
                                 <p>Director of Developer Relations @ MariaDB</p> \
-                                <span class='green'>BIOGRAPHY & BACKGROUND</span> \
+                                <span class='bg-green'>BIOGRAPHY & BACKGROUND</span> \
                                 <p>Rob grew up in a small town in Southwest Missouri. He comes from a long line of farmers, but \
                                 decided at a young age that he wanted to take a different path. He attended Missouri State University \
                                 graduated with a B.S. in Computer Science, minoring in Mathematics and Physics. <br /><br /> \
                                 Since graduating, Rob has created all kinds of software using a variety of different technologies and \
                                 programming languages.</p> \
-                                <span class='green'>EXPERIENCE</span> \
+                                <span class='bg-green'>EXPERIENCE</span> \
                                 <table class='output auto bordered collapsed padded'> \
                                     <tr> \
                                         <td>YEARS OF EXP.</td> \

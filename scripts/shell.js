@@ -77,11 +77,11 @@ class Shell {
         const mensagem = document.createElement("h2");
       
         if (success) {
-            i.setAttribute("class", "fas fa-angle-right icone");
+            i.setAttribute("class", "fas fa-angle-right input-char");
             mensagem.setAttribute("class", "success");
         }
         else {
-            i.setAttribute("class", "fas fa-angle-right icone error");
+            i.setAttribute("class", "fas fa-angle-right input-char error");
             mensagem.setAttribute("class", "error");
         }
       
@@ -123,7 +123,7 @@ class Shell {
         const div = document.createElement("div");
         div.setAttribute("class", "type")
         const i = document.createElement("i");
-        i.setAttribute("class", "fas fa-angle-right icone")
+        i.setAttribute("class", "fas fa-angle-right input-char")
         const input = document.createElement("input");
         div.appendChild(i);
         div.appendChild(input);
